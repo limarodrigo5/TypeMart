@@ -7,7 +7,9 @@ Welcome to my TypeMart Repository! Here, I've got everything you need to create 
 TypeMart is all about making online shopping a breeze with our type-safe purchase flow. In this repository, you'll find two essential files:
 
 index.ts: This is the heart of our purchase flow, where I handle all the customer transactions.
+
 products.ts: Explore our catalog of amazing products, waiting for you to discover!
+
 🏃 Getting Started
 Follow these simple steps to run the program and experience the magic of TypeMart:
 
@@ -19,6 +21,7 @@ npm install
 
 Compile and Run ▶️:
 tsc
+
 node index.js
 
 💻 Purchase Flow
